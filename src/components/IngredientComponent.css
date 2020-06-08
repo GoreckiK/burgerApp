@@ -1,0 +1,49 @@
+.burger-top {
+    width: 40%;
+    height: 80px;
+    margin: .5em 0;
+    background: darkorange;
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+}
+
+.burger-bottom {
+    width: 40%;
+    height: 60px;
+    margin: .5em 0;
+    background: darkorange;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+}
+
+.salad {
+    width: 42%;
+    height: 20px;
+    margin: .5em 0;
+    background: #00751f;
+    border-radius: 5%;
+}
+
+.bacon {
+    width: 40%;
+    height: 10px;
+    margin: .5em 0;
+    background: #b03500;
+    border-radius: 5%;
+}
+
+.cheese {
+    width: 45%;
+    height: 12px;
+    margin: .5em 0;
+    background: #ffff0a;
+    border-radius: 5%;
+}
+
+.meat {
+    width: 40%;
+    height: 25px;
+    margin: .5em 0;
+    background: #380000;
+    border-radius: 5%;
+}

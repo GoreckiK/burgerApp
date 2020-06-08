@@ -1,0 +1,36 @@
+.burger {
+    width: 60vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ingredient-button-add {
+    background-color: #5c3a00 !important;
+    border: none !important;
+}
+
+.ingredient-button-remove {
+    background-color: #a3a3a3 !important;
+    border: none !important;
+    margin-right: 20px;
+}
+
+.ingredient-container {
+    margin-top: 100px;
+    padding: 20px 0;
+    width: 50%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #a85a00;
+    position: absolute;
+    bottom: 50px;
+}
+
+.ingredient {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
